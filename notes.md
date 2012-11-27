@@ -32,9 +32,9 @@ same with content
 
 classic and html5 semantic
 
-## What is a CMS
+## What now
 
-software that generates html based on a database
+How to view using file://, about ftp, about CMSs, about templates / themes
 
 ## Now let's make it pretty
 
