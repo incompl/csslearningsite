@@ -2,15 +2,13 @@
 
 How to make websites using HTML and CSS.
 
-## What is HTML
+## What is this stuff
 
-text files with web site contents and metadata
+HTML: text files with web site contents and metadata
 
-## What is CSS
+CSS: seprate text file with web site custom appearance
 
-seprate text file with web site custom appearance
-
-## What else is there
+What else is there?
 
 images, flash files, javascripts, etc
 
