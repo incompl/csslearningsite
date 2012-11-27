@@ -22,7 +22,7 @@ common elements, semantic or structural
 
 ## HTML starting point
 
-<!doctype html> .... </html>
+&lt;!doctype html> .... &lt;/html>
 
 ## Sample HTML page
 
